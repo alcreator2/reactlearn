@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.stats > h2 , .stats > h4{
+  text-align:  center;
+}
+
+@import "~bootstrap/dist/css/bootstrap.css";
